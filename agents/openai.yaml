@@ -1,0 +1,4 @@
+interface:
+  display_name: "科学汇报 PPT"
+  short_description: "按 Susan McConnell 的方法制作、精简与审阅科研汇报幻灯片"
+  default_prompt: "请用 $scientific-ppt 帮我制作或修改 PPT，让标题、图和口头讲解围绕同一条清晰结论。"
